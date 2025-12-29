@@ -3,7 +3,7 @@ import os
 
 RAW_DATA_PATH = "data/raw/creditcard.csv"
 BATCHES_DIR = "data/batches/"
-NUM_BATCHES = 10  # you can change this later
+NUM_BATCHES = 5  # you can change this later
 
 def create_batches():
     # load dataset
