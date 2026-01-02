@@ -1,4 +1,4 @@
-# End-to-End ML Lifecycle Pipeline with Drift-Triggered Retraining (Fraud Detection)
+# End-to-End ML Lifecycle Pipeline with Drift-Triggered Retraining for Fraud Detection
 
 This repository implements a complete machine learning lifecycle system for fraud detection that monitors data drift and model performance over time. The system ingests sequential batches of data, evaluates model reliability, and triggers retraining only when thresholds are violated. Model versions and lifecycle decisions are logged for reproducibility and traceability.
 
